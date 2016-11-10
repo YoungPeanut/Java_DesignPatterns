@@ -6,6 +6,7 @@ https://zhuanlan.zhihu.com/p/23293088
 状态模式，状态模式，尼玛，状态机，
 尼玛，声明周期就是状态模式啊。
 这样看来，Activity／Fragment分分钟就是一个状态机啊
+所以，看山不是山
 Fragment的状态是由FragmentManager管理的。
 ```
 

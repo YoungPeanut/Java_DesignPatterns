@@ -1,0 +1,1 @@
+https://medium.com/@dpreussler/writing-better-adapters-1b09758407d2#.lbb6jr9xs
